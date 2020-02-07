@@ -1,0 +1,8 @@
+/.venv
+/.vscode
+/__pycache__
+/data
+/models
+/venv
+/ls_embeddings
+/ls_embeddings.zip
